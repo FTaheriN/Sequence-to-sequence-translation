@@ -1,0 +1,9 @@
+epochs: 30
+save_step: 5
+batch_size: 128
+
+df_path: /content/drive/MyDrive/MSC/DeepLearning/HW3/Q2/dataset/Eng_Spa.txt
+glove_path: /content/drive/MyDrive/MSC/NaturalLanguage/CA2/gloveEmbedding/glove.6B.100d.txt
+train_res_path: '/content/drive/MyDrive/MSC/DeepLearning/HW3/Q2/model'
+
+
